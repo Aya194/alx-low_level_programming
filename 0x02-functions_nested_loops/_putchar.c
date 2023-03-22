@@ -4,7 +4,9 @@
 /**
  * _putchar - write character c to stdout
  * @c : the charachter to print
- * Return : Always 1 (Success)
+ *
+ *Return: Always 1 (Success)
+ *  Always -1 (Fail)
  */
 
 
